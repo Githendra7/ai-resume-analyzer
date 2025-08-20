@@ -5,7 +5,7 @@
 1. Tech Stack
 2. Quick Start
 
-## <a name="tech-stack">Tech Stack</a>
+## <a name="tech-stack">1.Tech Stack</a>
 
 - **[React](https://react.dev/)** is a popular open‑source JavaScript library for building user interfaces using reusable components and a virtual DOM, enabling efficient, dynamic single-page and native apps.
 
@@ -24,7 +24,7 @@
 - **[Zustand](https://github.com/pmndrs/zustand)** is a minimal, hook-based state management library for React. It lets you manage global state with zero boilerplate, no context providers, and excellent performance through selective state subscriptions.
 
 
-## <a name="quick-start">Quick Start</a>
+## <a name="quick-start">2.Quick Start</a>
 
 **Prerequisites**
 
